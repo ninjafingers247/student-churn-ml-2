@@ -49,7 +49,7 @@ Feature groups:
 
 ## c. GitHub repository link
 
-**Repository:** _add the public GitHub URL here after you push the project_
+**Repository:** https://github.com/ninjafingers247/student-churn-ml-2
 
 The repository contains:
 
@@ -65,7 +65,7 @@ model/metrics.json
 model/preprocessing.joblib
 ```
 
-**Live Streamlit app:** _add the Streamlit Community Cloud URL here after deploy_
+**Live Streamlit app:** https://student-churn-ml-2-hznwsqpiuxfprvglbe2svm.streamlit.app/
 
 ### How to run locally
 
@@ -127,7 +127,3 @@ All stochastic models use `random_state=42`.
 - Metric cards: Accuracy, AUC, Precision, Recall, F1, MCC
 - Confusion matrix and classification report
 - Optional grouped-bar comparison of every model on the loaded file
-
-## Academic integrity note
-
-Training code lives in `model/train_models.py`. Saved estimators are the `.joblib` files in `model/`. Metrics above are computed on the hold-out split shipped as `test_data.csv`.
