@@ -1,4 +1,4 @@
-# CampusOutcome Lab
+# Student Churn ML-2
 
 Interactive classification project for **BITS WILP Machine Learning Assignment 2**. Six models predict whether a higher-education student will **drop out**, remain **enrolled**, or **graduate**.
 
